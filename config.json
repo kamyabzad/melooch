@@ -1,0 +1,15 @@
+{
+    "MessagesLimit": 50,
+    "StartTime": "10:00",
+    "StopTime": "22:00",
+    "StartOnRun": false,
+    "TimeIntervalMinutes": 120,
+    "MediaOnly": true,
+    "IsPostNumberRandom": false,
+    "ConstantPostNumber": 1,
+    "RandomPostNumberMin": 1,
+    "RandomPostNumberMax": 5,
+    "ChannelID": "",
+    "ChatList": [
+    ]
+}
