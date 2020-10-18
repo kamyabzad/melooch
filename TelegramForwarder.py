@@ -1,5 +1,5 @@
 import random
-from telethon import TelegramClient
+from telethon.sync import TelegramClient
 from telethon.tl.types import Chat
 
 class TelegramForwarder:
